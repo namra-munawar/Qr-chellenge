@@ -1,0 +1,33 @@
+img {
+    display: inline-block;
+    height: 65%;
+    width: 100%;
+    border-radius: 20px;
+}
+ p{
+    font-size: 20px;
+    text-align: center;
+}
+.container{
+    height: 100%;
+     width: 100%;
+     background-color: hsl(212, 45%, 89%);
+     padding-top: 70px;
+    
+   }.white-box{
+    height: 580px;
+    width: 365px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin: auto;
+}
+.content {
+    width: 90%;
+    margin: auto;
+    font-family: 'arial';
+}
+.head{
+    font-size: 25px;
+    text-align: center;
+}
